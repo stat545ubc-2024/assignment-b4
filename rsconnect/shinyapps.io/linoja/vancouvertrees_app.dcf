@@ -1,0 +1,10 @@
+name: vancouvertrees_app
+title:
+username: linoja
+account: linoja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13544288
+bundleId: 9477136
+url: https://linoja.shinyapps.io/vancouvertrees_app/
+version: 1
